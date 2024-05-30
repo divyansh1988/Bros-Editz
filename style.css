@@ -1,0 +1,15 @@
+.top-right{
+ position: absolute;
+ bottom:  840px;
+right: 40px;
+color: aliceblue;
+font-size:xx-large;
+}
+
+.top-left{
+position: absolute;
+bottom: 840px;
+left: 1300px;
+color: aliceblue;
+
+}
