@@ -3,7 +3,7 @@
 <head>
 <title> BROS EDITZ </title>
 
-<link rel="shortcut icon" type="x-icon" href="C:\Users\divya\Downloads\Telegram Desktop\vk3.jpg">
+<link rel="shortcut icon" type="x-icon" href="vk3.jpg">
 </head>
 <body>
 
