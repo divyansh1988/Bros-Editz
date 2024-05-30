@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<img src="vk18.jpg" width="160px" height="160px">
+<img src="vk18.jpg" width="1600px" height="1600px">
 
 
 
