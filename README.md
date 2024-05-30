@@ -3,7 +3,7 @@
 <head>
 <title> BROS EDITZ </title>
 
-<link rel="shortcut icon" type="x-icon" href="vk2.jpg">
+<link rel="shortcut icon" type="x-icon" href="Vk2.jpg">
 </head>
 <body>
 
