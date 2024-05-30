@@ -1,5 +1,4 @@
-# BrosEditz.html
-when i step into the field then i have to believe that i am the best..
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +8,7 @@ when i step into the field then i have to believe that i am the best..
 </head>
 <body>
 
-<img src="C:\Users\divya\Downloads\vk18.jpg" width="100%" height="100%">
+<img src="vk18.jpg" width="100%" height="100%">
 
 
 
