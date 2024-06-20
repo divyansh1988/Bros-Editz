@@ -13,3 +13,76 @@ left: 1300px;
 color: aliceblue;
 
 }
+
+ol{
+text-align: left;
+margin-left: 50px;
+
+}
+
+.top-middle{
+    position: absolute;
+    bottom: 840px;
+    left: 1010px;
+    color: aliceblue;
+}
+
+.bottom-right{
+    position: absolute;
+    bottom: 840px;
+    left: 720px;
+    color: aliceblue;
+
+
+}
+
+.footer-footer-company-header{
+    font-weight: 800;
+    font-size: 15px;
+    align-items: center;
+    margin-left:10px;
+     display:flex;
+    margin-top: 20px;
+    }
+
+.footer-footer-company-header1{
+    align-items: center;
+    font-weight: 400;
+    display:flex;  
+    font-size: 15px;
+}
+
+.footer-footer-company-wrapper1{
+
+    font-weight: 400;
+    font-size: 15px;
+    align-items: center;
+     display:flex;
+    margin-top: 20px;
+}
+
+
+.footer-footer-company-wrapper2{
+
+    font-weight: 400;
+    font-size: 15px;
+    align-items: center;
+     display:flex;
+    margin-top: 40px;
+
+}
+
+.footer-footer-company-video{
+
+    align-items: center;
+    display:flex;
+   margin-top: 30px;
+
+}
+
+
+.footer-footer-company-header2{
+  align-items: center;
+  display: flex;
+  margin-top: 30px;
+}
